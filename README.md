@@ -2,9 +2,7 @@
 
 ## PyCitySchools
 
-![Education](Images/education.png)
-
-Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector.  In this project I act as the Chief Data Scientist for your city's school district. In this capacity, I'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
+In this project I act as the Chief Data Scientist for your city's school district. In this capacity, I'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 I will analyze the district-wide standardized test results. I utilize each student's math and reading scores, as well as various information on the schools they attend. My responsibility is to aggregate the data to and showcase obvious trends in school performance.
 
